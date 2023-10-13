@@ -7,7 +7,7 @@ Neste projeto, visamos a criação de um site para adição de um bot na platafo
 ![Web1](https://github.com/T4v1n/Projeto_DW/blob/main/css/Imagem%20Site%201.jpeg)
 ![Web2](https://github.com/T4v1n/Projeto_DW/blob/main/css/Imagem%20Site%202.jpeg)
 
-## Layout da parte de cadastro
+## Layout do formulário de contato
 ![Web3](https://github.com/T4v1n/Projeto_DW/blob/main/css/Imagem%20Site%203.jpeg)
 
 ## Paticipantes do Projeto
