@@ -12,4 +12,5 @@ Neste projeto, visamos a criação de um site para adição de um bot na platafo
 
 ## Paticipantes do Projeto
 Leandro Rodrigues de Melo <p>
-Gustavo Morais de Arruda
+Gustavo Morais de Arruda <p>
+Pablo Fernandes Sena
