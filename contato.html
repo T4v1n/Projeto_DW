@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Página de contato para tirar suas dúvidas!">
     <link rel="stylesheet" href="css/style.css">
+    <script src="js/script.js"></script>
     <title>Contato - D's Bot</title>
 </head>
 
@@ -27,26 +28,26 @@
 
                 <div class="conteudo-contato">
                     
-                    <form action="#" method="POST"> 
+                    <form id="form" action="#" method="POST"> 
                         <p> 
                         Nome:<br /> 
-                        <input class="inputs" type="text" size="30" name="nome"> 
+                        <input class="inputs required" type="text" size="30" name="nome"> 
                         </p>   
                         
                         <p>
                         E-mail:<br /> 
-                        <input class="inputs" type="text" size="30" name="replyto"> 
+                        <input class="inputs required" type="text" size="30" name="replyto"> 
                         </p>   
                         
                         <p> 
                         Comentários:<br /> 
-                        <textarea class="inputs" name="" id="" cols="50" rows="10"></textarea>
+                        <textarea class="inputs required" name="" id="" cols="50" rows="10"></textarea>
                         </p>   
                         
                         <br><br>
                         
                         <p> 
-                            <input class="conteudo-principal-escrito-botao" type="submit" name="BTEnvia" value="Enviar"> 
+                            <input class="conteudo-principal-escrito-botao" type="submit" name="BTEnvia" value="Enviar" onclick="validarCampos()"> 
                             <input class="conteudo-principal-escrito-botao" type="reset" name="BTApaga" value="Apagar"> 
                         </p> 
                     </form>
